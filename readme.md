@@ -1,7 +1,16 @@
 ## Different Brnaches
 - prac/curd:  basic curd practice
+```
+git checkout prac/curd
+```
 - prac/login: basic login practice
+```
+git checkout prac/login
+```
 - prac/google_login: basic google login practice
+```
+git checkout prac/google_login
+```
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
