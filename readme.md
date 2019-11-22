@@ -1,3 +1,8 @@
+## Different Brnaches
+- prac/curd:  basic curd practice
+- prac/login: basic login practice
+- prac/google_login: basic google login practice
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
